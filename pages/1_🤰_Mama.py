@@ -97,7 +97,7 @@ def mama_main(username):
     tagebuch_date = st.date_input("Tagebuch Datum", value=datetime.today(), max_value=datetime.today(), format="YYYY/MM/DD")
     tagebuch_text = st.text_area("Tagebuch")
     if st.button("Eintrag speichern"):
-        new_row = pd.DataFrame({"Date": [tagebuch_date], "Tagebuch": [tagebuch_text]})
+        new_row = pd.DataFrame({"Datum": [tagebuch_date], "Tagebuch": [tagebuch_text]})
         file_name = f"tagebuch_{file_suffix}.csv"
         if github.file_exists(file_name):
             tagebuch_df = github.read_df(file_name)
