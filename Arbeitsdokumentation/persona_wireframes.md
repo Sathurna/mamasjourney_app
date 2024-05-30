@@ -12,4 +12,3 @@ Da unsere App für Desktop sowie für Mobile genutzt werden soll, haben wir zwei
 
 ## Wireframe Mobile
 ![Wireframe Mobile](Bilder/IMG_3180.jpeg)
-
