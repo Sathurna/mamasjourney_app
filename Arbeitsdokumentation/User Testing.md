@@ -1,6 +1,6 @@
 App-User: eine Schwangere in der 19 SSW
 
-Die Userin ist zum zweitenmal Schwanger. Sie hat in der ersten Schwangerschaft ein Schwangerschaftstagebuch geführt. Dies war sehr zeitaufwendig. 
+Die Userin ist zum zweiten Mal Schwanger. Sie hat in der ersten Schwangerschaft ein Schwangerschaftstagebuch geführt. Dies war sehr zeitaufwendig. 
 Ein App zu haben,welche dieses Buch ersetzt, hat sie umso mehr fasziniert. 
 
 
